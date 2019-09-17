@@ -1678,7 +1678,7 @@ function wp_dashboard_empty() {}
 function wp_welcome_panel() {
 	?>
 	<div class="welcome-panel-content">
-	<h2><?php _e( '[TSV]Welcome to WordPress!' ); ?></h2>
+	<h2><?php _e( 'Welcome to WordPress!' ); ?></h2>
 	<p class="about-description"><?php _e( 'We&#8217;ve assembled some links to get you started:' ); ?></p>
 	<div class="welcome-panel-column-container">
 	<div class="welcome-panel-column">
